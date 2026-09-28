@@ -6,18 +6,19 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 0 | 2 | 0 | `2026-09-28` |
+| **3** | 0 | 3 | 0 | `2026-09-28` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (2)
+### DSA (3)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [743. Check if the Array is Sorted I](./DSA/Arrays/check-if-the-array-is-sorted-i) | [CPP](./DSA/Arrays/check-if-the-array-is-sorted-i/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 | 0002 | [873. Count of odd numbers in Array](./DSA/Arrays/count-of-odd-numbers-in-array) | [CPP](./DSA/Arrays/count-of-odd-numbers-in-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0003 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 
 ---
 
