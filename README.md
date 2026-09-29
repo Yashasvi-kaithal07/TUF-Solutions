@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **5** | 0 | 5 | 0 | `2026-09-29` |
+| **6** | 0 | 6 | 0 | `2026-09-29` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (5)
+### DSA (6)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -20,7 +20,8 @@
 | 0002 | [873. Count of odd numbers in Array](./DSA/Arrays/count-of-odd-numbers-in-array) | [CPP](./DSA/Arrays/count-of-odd-numbers-in-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 | 0003 | [296. Highest Occurring Element in an Array](./DSA/Arrays/highest-occurring-element-in-an-array) | [CPP](./DSA/Arrays/highest-occurring-element-in-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-29` |
 | 0004 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0005 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0005 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [CPP](./DSA/General/second-highest-occurring-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
+| 0006 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 
 ---
 
