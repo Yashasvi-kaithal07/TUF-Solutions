@@ -1,14 +1,12 @@
 class Solution{	
 	public:		
 		bool palindromeCheck(string& s){
-            int l=0, r=s.size()-1;
-            while(l<r){
-                if(s[l] != s[r]){
-                    return false;
-                }
-                l++;
-                r--;
+
+            string rev=s;
+            reverse(s.begin(),s.end());
+            if(rev==s){
+                return true;
             }
-            return true;
+            return false;
 		}
 };
