@@ -5,8 +5,9 @@ class Solution{
                 return false;
             }
             int a[26];
-            for(int i=0 ; i < 26; i++){
-                a[i]=-1;}
+            fill(a, a + 26 , -1);
+            // for(int i=0 ; i < 26; i++){
+            //     a[i]=-1;}
 
                 for(int i=0 ; i < s.size(); i++){
                 a[s[i]-'a'] ++;
