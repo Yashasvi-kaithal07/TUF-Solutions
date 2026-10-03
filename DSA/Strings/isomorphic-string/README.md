@@ -42,6 +42,10 @@ This is invalid because **two different characters (a and p) cannot map to the s
 
 Therefore, no valid mapping exists and the output is false.
 
+### Example 3:
+
+<h3 class="ProblemPanel-module__qBixIa__sectionTitle mb-0!">Example 3:</h3>
+
 Still unsure what the problem is asking ?
 
 Let’s go through a few more examples, step by step, to make it clearer.
