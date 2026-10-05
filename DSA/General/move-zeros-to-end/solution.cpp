@@ -4,6 +4,7 @@ public:
        int n= nums.size();
 
     int i=0;
+    // for(int i = 0; i < n; )
         while(i < n){
             if(nums[i] == 0){
                 int shift= nums[i]; 
@@ -12,7 +13,8 @@ public:
                 n--;
                 }
             
-            else{
+            // else{ i++;}
+            else if(nums[i] != 0){   
                 i++;
             }
 
